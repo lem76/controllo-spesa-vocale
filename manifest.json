@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "controllo spesa vocale",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "spesa",
+  "start_url": "/controllo-spesa-vocale/",
+  "theme_color": "#ffffff"
+}
