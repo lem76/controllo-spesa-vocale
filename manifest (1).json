@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Controllo Spesa Vocale",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Spesa",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
